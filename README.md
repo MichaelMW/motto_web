@@ -1,3 +1,11 @@
+## todo:
+- input meme containing multiple motifs output only one. eg. using commonTFs.meme as input. 
+- add options from web UI to pass on to python script. 
+
+
+
+
+
 # Motto Web Tool
 A web tool for running [Motto](https://github.com/MichaelMW/motto.git)
 
